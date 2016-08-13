@@ -1,3 +1,6 @@
 [submodule "fgAPIServer"]
 	path = fgAPIServer
 	url = https://github.com/brucellino/fgAPIServer.git
+[submodule "ReproducibleASR"]
+	path = ReproducibleASR
+	url = https://github.com/AAROC/ReproducibleASR
