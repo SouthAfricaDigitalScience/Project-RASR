@@ -25,7 +25,7 @@
            <subfield code="u">URL to license documentation</subfield>
     </datafield>
     <datafield tag="536" ind1=" " ind2=" ">
-	    <subfield code="c">Projectof of a resource</subfield>
+	    <subfield code="c">Project of of a resource</subfield>
 	</datafield>
     <datafield tag="700" ind1=" " ind2=" ">
             <subfield code="a">Other author</subfield>
