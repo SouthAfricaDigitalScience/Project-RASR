@@ -6,11 +6,11 @@ This is the content for the text boxes to be used in the poster for the 3rd Sci-
 
 Try to keep a simple change log here of what has been changed. Only major changes and their explanations, with dates.
 
-  * 2016-08-31 : Initial draft with sections from @davidnwu 's poster dra
+  * 2016-08-31 : Initial draft with sections from @davidnwu 's poster draft
 
 # Introduction
 
-Reproducible Automatic Speech Recognitions (RASR) workflows is a use case developed so as to provide the rich South African Human Language Technology (HLT)Automatic Speech Recognition (ASR) development research community with open source data storage and training resources on the web so as to enhance research in this focus area as well as promote synergy in research in this field.
+Automatic Speech Recognition (ASR) is an important part of modern daily life, present in nearly all parts of communication technology. However, resources are biased towards certain languages, whilst indigenous and local languages are under-resourced. There is nonetheless a large and active research community dedicated to developing speech recognition. Workflows have bee developed in order to provide research communities with a means to improve collaboration and synergy across the field.
 
 # Problem Statement
 
